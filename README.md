@@ -1,3 +1,4 @@
+See the full slide deck in [docs/xct_phantom_som_cnn_demo.pdf](docs/xct_phantom_som_cnn_demo.pdf).
 # Label-Free XCT Phantom Defect Detection with SOM–CNN
 
 Label-free, interpretable defect detection on X-ray computed tomography (XCT)
